@@ -1,4 +1,4 @@
-package br.com.binario.binario;
+package br.com.binario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
